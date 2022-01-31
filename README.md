@@ -14,4 +14,4 @@ The notebook can be found by clicking [here](https://github.com/shrutimary15/Bin
 ![Screenshot 2022-01-30 112320](https://user-images.githubusercontent.com/77826778/151688411-c61c8312-85ae-4a70-b072-17f8c801e759.png)
 
 ### Acknowledgements:
-1. [Tathagat Banerjee](https://www.kaggle.com/tathagatbanerjee/ship-detection-using-faster-r-cnn-p-1/notebook)
+1. [Tathagat Banerjee](https://www.kaggle.com/tathagatbanerjee)
